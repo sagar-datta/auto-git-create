@@ -26,3 +26,7 @@
   - i.e /user/Documents/Projects
 - Execute `git-create <desired-repo-name>`
 
+# Future Additions
+
+- storing of GitHub password for even less human input experience
+- Being able to add a description
