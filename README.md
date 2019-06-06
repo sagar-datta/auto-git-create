@@ -20,6 +20,8 @@
 
 - Add function from create.sh to your .zshrc file
 - Edit function to suit your needs
+  - function name to change `git-create`
+  - github username
 
 # Usage
 
