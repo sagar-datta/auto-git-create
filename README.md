@@ -34,7 +34,7 @@
 # Future Additions
 
 - Storing of GitHub password for even less human input experience
-- Make initial commit and README contents editable with prompts
+- Make initial commit and README contents input options rather than (slightly) static messages
   - Like how the description currently operates
 
 # New Additions
