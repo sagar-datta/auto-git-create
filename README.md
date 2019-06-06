@@ -20,8 +20,10 @@
 
 - Add function from create.sh to your .zshrc file
 - Edit function to suit your needs
-  - function name to change `git-create`
-  - github username
+  - Function name to change `git-create`
+  - Github username
+  - Initial commit message
+  - Initial README contents
 
 # Usage
 
@@ -31,7 +33,9 @@
 
 # Future Additions
 
-- storing of GitHub password for even less human input experience
+- Storing of GitHub password for even less human input experience
+- Make initial commit and README contents editable with prompts
+  - Like how the description currently operates
 
 # New Additions
 
