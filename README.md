@@ -7,6 +7,7 @@
 
 - This function does the the following:
   - Create new directory and navigates into it
+  - Prompts the user for a description for the GitHub repository
   - Creates GitHub repository with the name given in the command
   - Creates a README
   - Initialises a repository
@@ -29,4 +30,7 @@
 # Future Additions
 
 - storing of GitHub password for even less human input experience
-- Being able to add a description
+
+# New Additions
+
+- Added the ability to input a description to then be used as the GitHub repository description
